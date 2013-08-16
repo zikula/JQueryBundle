@@ -16,7 +16,7 @@
         "components/jquery": "~1"
     },
     "autoload": {
-        "psr-0": { "Zikula\\JQueryBundle": "" }
+        "psr-0": { "Zikula\\Bundle\\JQueryBundle\\": "" }
     },
     "config": {
         "component-dir": "Resources/public/js"
