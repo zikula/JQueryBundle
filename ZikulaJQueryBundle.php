@@ -1,6 +1,6 @@
 <?php
 /**
- * Copyright Zikula Foundation 2013 - Zikula Application Framework
+ * Copyright Zikula Foundation 2013 - Zikula jQuery bundle.
  *
  * This work is contributed to the Zikula Foundation under one or more
  * Contributor Agreements and licensed to You under the following license:
@@ -12,7 +12,7 @@
  * information regarding copyright and licensing.
  */
 
-namespace Zikula\JQueryBundle;
+namespace Zikula\Bundle\JQueryBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
