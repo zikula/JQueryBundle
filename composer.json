@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "components/jquery": "~2.0"
+        "components/jquery": "2.1.*"
     },
     "autoload": {
         "psr-0": { "Zikula\\Bundle\\JQueryBundle\\": "" }
